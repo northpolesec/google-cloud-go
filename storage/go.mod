@@ -1,4 +1,4 @@
-module cloud.google.com/go/storage
+module github.com/northpolesec/google-cloud-go/storage
 
 go 1.23.0
 
